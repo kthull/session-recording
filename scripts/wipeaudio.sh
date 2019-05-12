@@ -25,8 +25,8 @@
 #    automagically contained in the `/STEREO/FOLDER01` folder
 
 cd /Volumes/H2N_SD/copied
-rm -rf *.mp3
+rm -rf *.MP3
 cd /Volumes/H2N_SD/STEREO/FOLDER01
-rm -rf *.mp3
+rm -rf *.MP3
 cd ~
 diskutil unmountDisk /dev/disk2
