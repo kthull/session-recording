@@ -8,6 +8,7 @@ Docs and stats about my particular method for conference screen recordings
 * [Detailed event setup instructions](https://github.com/kthull/session-recording/wiki/Setup-for-Events)
 * [Troubleshooting Guide](https://github.com/kthull/session-recording/wiki/Troubleshooting-Guide)
 * [In-room recording instructions](https://drive.google.com/open?id=1G3EPVAxVMK9t144PgwHiknKK3_mVMqZ_lQoM23Pn8XY)
+* [Wiring diagram, courtesy of Rick Hood](https://drive.google.com/file/d/13c3u8WKfRZSBW9HEkbUbFM9IMelQkHZS/view?usp=sharing)
 
 ## Donate!
 Your donation will help cover equipment maintenance costs as well as help cover my personal expenses while providing this service. [Donate now](https://www.zeffy.com/en-US/donation-form/support-the-drupal-recording-initiative)
